@@ -1,0 +1,13 @@
+.product-container {
+  display: flex;
+  border-bottom: 2px solid lightgray;
+  padding: 20px 0px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.product-details h2 {
+  color: rgb(43, 92, 226);
+}
+.product-details {
+  padding: 0 50px;
+}

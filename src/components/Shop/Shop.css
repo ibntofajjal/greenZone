@@ -1,0 +1,29 @@
+.shop-conatiner {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.product-side {
+  margin-left: 15%;
+  border-right: 2px solid lightgray;
+  border-left: 2px solid lightgray;
+  margin-right: 10px;
+}
+.btn-regular {
+  background-color: #2b9b4c;
+  color: white;
+  padding: 10px 70px;
+  font-size: 15px;
+  border-radius: 15px 0 15px 0;
+  border: none;
+}
+
+.product-cart h1 {
+  color: blueviolet;
+}
+.product-side h1 {
+  color: blueviolet;
+  background-color: #2b9b4c;
+  color: white;
+  line-height: 60px;
+  padding-left: 50px;
+}
