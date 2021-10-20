@@ -1,0 +1,46 @@
+{
+  "details": [
+    {
+      "name": "David Walker",
+      "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/Doctors/doctor-1.png",
+      "fee": 70,
+      "specialist": "Cardiologist",
+      "key": 1
+    },
+    {
+      "name": "Wasim Udzu",
+      "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/Doctors/doctor-2.png",
+      "fee": 90,
+      "specialist": "Gastroenterologist",
+      "key": 2
+    },
+    {
+      "name": "Shams Khan",
+      "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/Doctors/doctor-3.png",
+      "fee": 50,
+      "specialist": "Ophthalmologist",
+      "key": 3
+    },
+    {
+      "name": "Khabib Bamsi",
+      "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/Doctors/doctor-4.png",
+      "fee": 70,
+      "specialist": "Dentist",
+      "key": 4
+    },
+    {
+      "name": "Trek Naidu",
+      "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/Doctors/doctor-5.png",
+      "fee": 60,
+      "specialist": "Psychologist",
+      "key": 5
+    },
+    {
+      "name": "Uyas Dc.",
+      "img": "https://raw.githubusercontent.com/ibntofajjal/fake-images/main/Doctors/doctor-6.png",
+      "fee": 85,
+      "specialist": "Baby-Health",
+      "key": 6
+    }
+  ]
+}
